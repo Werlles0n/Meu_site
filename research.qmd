@@ -1,0 +1,42 @@
+---
+title: "Research & Publications"
+---
+
+My research focus lies at the intersection of **Agricultural Statistics**, **Spatial Machine Learning**, and **Agrometeorology**. I am particularly interested in how statistical modeling and computational tools can optimize decision-making in the Amazon and other complex agricultural landscapes.
+
+::: {.callout-note appearance="simple"}
+## Full Academic Profiles
+
+For a complete list of citations and metrics, please visit: [{{< ai orcid >}} ORCID](https://orcid.org/0000-0001-6320-5589) \| [{{< ai lattes >}} Lattes CV](http://lattes.cnpq.br/7637439330380174)
+:::
+
+## Peer-Reviewed Journal Articles
+
+1.  **MARTORANO, L. G.** et al. (2025). Topoclimatic Zoning of Three Native Amazonian Forest Species: Approach to Sustainable Silviculture. *Sustainability*, 17, 1366.
+2.  **CÂNDIDO, A. C. T. F.** et al. (2024). Carbon and Methane as Indicators of Environmental Efficiency of a Silvopastoral System in Eastern Amazon, Brazil. *Sustainability*, 16, 2547.
+3.  **NASCIMENTO, W.**, **MARTORANO, L. G.**, **ARAÚJO**, L. B., **SOUSA, J. T. R.**, & DIAS, C. T. S., (2023). Agrometeorological conditions in western Pará compared to agricultural production variables using principal component analysis. *Biotechnologie, Agronomie, Société et Environnement*, 27(2), 87-95.
+4.  **CÂNDIDO, A. C. T. F.** et al. (2023). Infrared Thermal Profiles in Silvopastoral and Full-Sun Pastures in the Eastern Amazon, Brazil. *Forests*, 14, 1463.
+5.  **MARTORANO, L. G.** et al. (2021). Climatology of Air Temperature in Belterra: Thermal Regulation Ecosystem Services Provided by the Tapajós National Forest in the Amazon. *Revista Brasileira de Meteorologia*, 36, 327-337.
+6.  **NASCIMENTO, W.** et al. (2020). Principal Component Analysis in the evaluation of climate effects on soybean (Glycine max) production in Belterra, Pará. *Proceeding Series of the SBMAC*, 7.
+7.  **FLORENTINO, G. D.** et al. (2020). Thermographic gradients in the ceramic industry in the Amazon as a didactic tool in the technological teaching process. *Revista de Estudos e Pesquisas sobre Ensino Tecnológico*, 6.
+8.  **SOUSA, E. D. V.** et al. (2018). Soybean cultivar productivity associated with accumulated degree-days under agrometeorological conditions in Belterra (PA). *Revista Ibero-americana de Ciências Ambientais*, 9, 46-53.
+
+## Books & Chapters
+
+-   **PEREIRA, J. N.** et al. (2022). Preparation and sensory analysis of muruci pulp reduction with cachaça. In: *Research and Updates in Food Sciences*. Jardim do Seridó, RN.
+
+## Conference Proceedings & Selected Presentations
+
+I have presented my research at several international and national conferences. Recent highlights include:
+
+-   **NASCIMENTO, W.** et al. (2025). *Associations between Morphological and Productive Characteristics in Açaí Palms via Canonical Correlation Analysis.* (Conference Presentation).
+-   **NASCIMENTO, W.** et al. (2025). *Statistical Modeling of Forest Species Distribution in the Amazon with Principal Component Analysis.* (Conference Presentation).
+-   **NASCIMENTO, W.** & **DIAS, C. T. S.** (2024). *ABR and R-AMMI alternatives in the analysis of wheat grain yield under ANOVA assumption limitations.* (Conference Presentation).
+-   **NASCIMENTO, W.** et al. (2019). *Principal Component Analysis applied to the variation of soybean, maize, and cassava production facing El Niño and La Niña events in Belterra-PA.*
+
+------------------------------------------------------------------------
+
+## Technical Skills
+
+-   **Languages:** R (Advanced), LaTeX, Markdown.
+-   **Specialties:** Experimental Design, Spatial Statistics, Machine Learning (Random Forest, XGBoost), Multivariate Analysis (PCA, Canonical Correlation).

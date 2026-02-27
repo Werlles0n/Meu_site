@@ -2,18 +2,20 @@ project:
   type: website
 
 website:
-  title: "Seu Nome Completo"
+  title: "Werlleson Nascimento"
   navbar:
+    background: primary
     left:
       - href: index.qmd
-        text: Sobre Mim
-      - href: pesquisa.qmd
-        text: Pesquisas
+        text: Home
+      - href: research.qmd
+        text: Research
       - href: cv.pdf
-        text: Currículo (PDF)
+        text: CV (PDF)
 
 format:
   html:
-    theme: lux
+    theme: spacelab
     toc: true
 
+lang: en
