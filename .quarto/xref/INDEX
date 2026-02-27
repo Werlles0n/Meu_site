@@ -1,14 +1,11 @@
 {
+  "research.qmd": {
+    "research.html": "de4214b4"
+  },
   "index.qmd": {
-    "index.html": "1da8fd90"
+    "index.html": "e9cd66ff"
   },
   "about.qmd": {
-    "about.html": "763e6a24"
-  },
-  "pesquisa.qmd": {
-    "pesquisa.html": "d8db9ce5"
-  },
-  "research.qmd": {
-    "research.html": "6ffc4cbf"
+    "about.html": "09e4594e"
   }
 }
