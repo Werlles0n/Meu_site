@@ -7,10 +7,59 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research & Publications",
+    "section": "",
+    "text": "My research focus lies at the intersection of Agricultural Statistics, Spatial Machine Learning, and Agrometeorology. I am particularly interested in how statistical modeling and computational tools can optimize decision-making in the Amazon and other complex agricultural landscapes."
+  },
+  {
+    "objectID": "research.html#peer-reviewed-journal-articles",
+    "href": "research.html#peer-reviewed-journal-articles",
+    "title": "Research & Publications",
+    "section": "Peer-Reviewed Journal Articles",
+    "text": "Peer-Reviewed Journal Articles\n\nMARTORANO, L. G. et al. (2025). Topoclimatic Zoning of Three Native Amazonian Forest Species: Approach to Sustainable Silviculture. Sustainability, 17, 1366.\nCÂNDIDO, A. C. T. F. et al. (2024). Carbon and Methane as Indicators of Environmental Efficiency of a Silvopastoral System in Eastern Amazon, Brazil. Sustainability, 16, 2547.\nNASCIMENTO, W., MARTORANO, L. G., ARAÚJO, L. B., SOUSA, J. T. R., & DIAS, C. T. S., (2023). Agrometeorological conditions in western Pará compared to agricultural production variables using principal component analysis. Biotechnologie, Agronomie, Société et Environnement, 27(2), 87-95.\nCÂNDIDO, A. C. T. F. et al. (2023). Infrared Thermal Profiles in Silvopastoral and Full-Sun Pastures in the Eastern Amazon, Brazil. Forests, 14, 1463.\nMARTORANO, L. G. et al. (2021). Climatology of Air Temperature in Belterra: Thermal Regulation Ecosystem Services Provided by the Tapajós National Forest in the Amazon. Revista Brasileira de Meteorologia, 36, 327-337.\nNASCIMENTO, W. et al. (2020). Principal Component Analysis in the evaluation of climate effects on soybean (Glycine max) production in Belterra, Pará. Proceeding Series of the SBMAC, 7.\nFLORENTINO, G. D. et al. (2020). Thermographic gradients in the ceramic industry in the Amazon as a didactic tool in the technological teaching process. Revista de Estudos e Pesquisas sobre Ensino Tecnológico, 6.\nSOUSA, E. D. V. et al. (2018). Soybean cultivar productivity associated with accumulated degree-days under agrometeorological conditions in Belterra (PA). Revista Ibero-americana de Ciências Ambientais, 9, 46-53."
+  },
+  {
+    "objectID": "research.html#books-chapters",
+    "href": "research.html#books-chapters",
+    "title": "Research & Publications",
+    "section": "Books & Chapters",
+    "text": "Books & Chapters\n\nPEREIRA, J. N. et al. (2022). Preparation and sensory analysis of muruci pulp reduction with cachaça. In: Research and Updates in Food Sciences. Jardim do Seridó, RN."
+  },
+  {
+    "objectID": "research.html#conference-proceedings-selected-presentations",
+    "href": "research.html#conference-proceedings-selected-presentations",
+    "title": "Research & Publications",
+    "section": "Conference Proceedings & Selected Presentations",
+    "text": "Conference Proceedings & Selected Presentations\nI have presented my research at several international and national conferences. Recent highlights include:\n\nNASCIMENTO, W. et al. (2025). Associations between Morphological and Productive Characteristics in Açaí Palms via Canonical Correlation Analysis. (Conference Presentation).\nNASCIMENTO, W. et al. (2025). Statistical Modeling of Forest Species Distribution in the Amazon with Principal Component Analysis. (Conference Presentation).\nNASCIMENTO, W. & DIAS, C. T. S. (2024). ABR and R-AMMI alternatives in the analysis of wheat grain yield under ANOVA assumption limitations. (Conference Presentation).\nNASCIMENTO, W. et al. (2019). Principal Component Analysis applied to the variation of soybean, maize, and cassava production facing El Niño and La Niña events in Belterra-PA."
+  },
+  {
+    "objectID": "research.html#technical-skills",
+    "href": "research.html#technical-skills",
+    "title": "Research & Publications",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nLanguages: R (Advanced), LaTeX, Markdown.\nSpecialties: Experimental Design, Spatial Statistics, Machine Learning (Random Forest, XGBoost), Multivariate Analysis (PCA, Canonical Correlation)."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Meu_site",
+    "title": "Werlleson Nascimento",
     "section": "",
-    "text": "Olá! Eu sou Werlleson Nascimento, um pesquisador na área de Estatistica. Atualmente estou focado em entender sobre dados geoespaciais. Bem-vindo ao meu espaço digital!"
+    "text": "I am a PhD candidate in Statistics and Agricultural Experimentation at ESALQ/USP and a Visiting Scholar at the University of Illinois Urbana-Champaign (UIUC), specifically in the Department of Agricultural and Biological Engineering (ABE).\nMy research integrates Machine Learning, Spatial Statistics, and Applied Statistics to address complex challenges in agricultural research. Currently, I am focused on Spatial Machine Learning and Topoclimatic Zoning, seeking to transform data into actionable insights for the agricultural sector."
+  },
+  {
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "Werlleson Nascimento",
+    "section": "",
+    "text": "I am a PhD candidate in Statistics and Agricultural Experimentation at ESALQ/USP and a Visiting Scholar at the University of Illinois Urbana-Champaign (UIUC), specifically in the Department of Agricultural and Biological Engineering (ABE).\nMy research integrates Machine Learning, Spatial Statistics, and Applied Statistics to address complex challenges in agricultural research. Currently, I am focused on Spatial Machine Learning and Topoclimatic Zoning, seeking to transform data into actionable insights for the agricultural sector."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Werlleson Nascimento",
+    "section": "Education",
+    "text": "Education\nPhD in Agronomy (Statistics and Agricultural Experimentation) | 2023 – Present\nUniversity of São Paulo (USP), Brazil\n\nVisiting Scholar: University of Illinois Urbana-Champaign (UIUC), USA.\n\nDepartment of Agricultural and Biological Engineering (ABE).\nResearch focus: Spatial Machine Learning and Topoclimatic Zoning.\n\nFellowship: CNPq (National Council for Scientific and Technological Development).\n\nMSc in Agronomy (Statistics and Agricultural Experimentation) | 2021 – 2023\nUniversity of São Paulo (USP), Brazil * Thesis: AMMI and Robust AMMI analysis in wheat data with outliers. * Fellowship: CAPES.\nBSc in Agronomy | 2015 – 2021\nFederal University of Western Pará (UFOPA), Brazil * Thesis: Agrometeorological conditions in Western Pará compared to agricultural production variables and the national export market using Principal Component Analysis (PCA).\nBSc in Interdisciplinary Agricultural Sciences | 2015 – 2019\nFederal University of Western Pará (UFOPA), Brazil * Thesis: Agronomic performance of landrace varieties of cowpea (Vigna unguiculata (L.) Walp.) in Santarém-PA."
   }
 ]
