@@ -9,7 +9,7 @@ website:
       # Removi a linha do index.qmd daqui para não duplicar
       - href: research.qmd
         text: Research
-      - href: cv.pdf
+      - href: resume.pdf
         text: Resume # Nome atualizado para ficar mais moderno
     right:
       - icon: github
