@@ -19,7 +19,7 @@ about:
       href: https://github.com/Werlles0n
     - icon: link-45deg
       text: Lattes
-      href: Shttp://lattes.cnpq.br/7637439330380174
+      href: http://lattes.cnpq.br/7637439330380174
     - icon: envelope
       text: Contact
       href: werlleson.nascimento@usp.br
