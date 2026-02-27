@@ -2,16 +2,20 @@ project:
   type: website
 
 website:
-  title: "Werlleson Nascimento"
+  title: "Werlleson Nascimento" # Este título já funciona como o botão "Home"
   navbar:
     background: primary
     left:
-      - href: index.qmd
-        text: Home
+      # Removi a linha do index.qmd daqui para não duplicar
       - href: research.qmd
         text: Research
       - href: cv.pdf
-        text: CV (PDF)
+        text: Resume # Nome atualizado para ficar mais moderno
+    right:
+      - icon: github
+        href: https://github.com/Werlles0n
+      - icon: linkedin
+        href: https://www.linkedin.com/in/werlleson-nascimento-7936a7192
 
 format:
   html:
